@@ -1538,7 +1538,7 @@
 									"font": "Arial;13;1",
 									"left": 384,
 									"top": 381,
-									"width": 207.71533203125,
+									"width": 216.341796875,
 									"height": 13,
 									"text": "Funcionario_horasDeTrabalho"
 								},
@@ -1565,7 +1565,7 @@
 											"font": "Arial;13;0",
 											"left": 389,
 											"top": 404,
-											"width": 197.71533203125,
+											"width": 206.341796875,
 											"height": 13
 										},
 										{
@@ -1581,7 +1581,7 @@
 											"font": "Arial;13;0",
 											"left": 389,
 											"top": 419,
-											"width": 197.71533203125,
+											"width": 206.341796875,
 											"height": 13
 										},
 										{
@@ -1597,7 +1597,7 @@
 											"font": "Arial;13;0",
 											"left": 389,
 											"top": 434,
-											"width": 197.71533203125,
+											"width": 206.341796875,
 											"height": 13
 										}
 									],
@@ -1605,7 +1605,7 @@
 									"font": "Arial;13;0",
 									"left": 384,
 									"top": 399,
-									"width": 207.71533203125,
+									"width": 216.341796875,
 									"height": 53
 								}
 							],
@@ -1613,7 +1613,7 @@
 							"font": "Arial;13;0",
 							"left": 384,
 							"top": 376,
-							"width": 207.71533203125,
+							"width": 216.341796875,
 							"height": 76,
 							"nameLabel": {
 								"$ref": "AAAAAAFu0a69N6D2vR4="
@@ -1802,7 +1802,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 623,
+									"left": 627,
 									"top": 387,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1819,7 +1819,7 @@
 										"$ref": "AAAAAAFu0bGdh6FUX6Y="
 									},
 									"font": "Arial;13;0",
-									"left": 616,
+									"left": 624,
 									"top": 387,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -1854,7 +1854,7 @@
 								"$ref": "AAAAAAFu0a69N6D1zJA="
 							},
 							"lineStyle": 2,
-							"points": "591:408;656:408",
+							"points": "599:408;656:408",
 							"nameLabel": {
 								"$ref": "AAAAAAFu0bGdh6FVSMA="
 							},
@@ -3703,7 +3703,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFu0a69N6DzWF0="
 							},
-							"name": "id_funcionio",
+							"name": "id_funcionario",
 							"type": "INTEGER",
 							"length": 0,
 							"primaryKey": true,
